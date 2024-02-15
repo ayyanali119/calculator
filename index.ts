@@ -56,7 +56,7 @@ async function calculator() {
         } else {
             continueTransaction = false;
             console.log(chalk.bold.italic.red(`Thank you for using the calculator.`))
-            console.log(chalk.bold.italic.green(`Created by: Muhammad Bilal Siddique PIAIC-Batch55`))
+            console.log(chalk.bold.italic.green(`Allah Hafiz`))
         }
     }
 }
